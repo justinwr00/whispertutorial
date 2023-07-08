@@ -1,0 +1,28 @@
+install python latest version. add variable to path
+check python --version at terminal
+
+install chocolatey and ffmpeg
+choco install ffmpeg
+
+intall vs code
+
+vscode extensions:
+python
+jupyter
+
+hello world .py - install kernal if prompted
+
+pip uninstall virtualenv
+pip install --user virtualenv
+
+to install and use an env:
+python -m virtualenv env
+
+
+Set-ExecutionPolicy Unrestricted -Scope Process
+env\scripts\activate
+
+install whisper:   in env!  might take a few minutes
+pip install git+https://github.com/openai/whisper.git
+check pip freeze
+

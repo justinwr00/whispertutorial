@@ -3,7 +3,7 @@ import re
 
 
 #file to remove whitespace and fix punctuation
-fileName = "a1.mp3"
+fileName = "chessPodcastTrimmed.mp3"
 
 
 model = whisper.load_model('base')

@@ -1,0 +1,9 @@
+Run all these:
+
+you may have to delete all mp3 files first to free up space on github codespaces
+
+sudo apt update
+
+sudo apt install ffmpeg
+
+pip install git+https://github.com/openai/whisper.git
